@@ -1,0 +1,1 @@
+web: gunicorn Indeed_insights_webapp:server
